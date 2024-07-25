@@ -1,0 +1,44 @@
+.card, .list-group {
+  width: 15rem; /* Adjust the width as needed */
+}
+
+.list-group-item {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 4px;
+  
+}
+
+.list-group-item:hover {
+  background-color: #e2e6ea;
+}
+.card, .list-group {
+  width: 15rem; /* Adjust the width as needed */
+}
+
+.list-group-item {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 4px;
+}
+/* .common-height {
+  height: 20rem; 
+  overflow: auto; 
+} */
+
+.list-group-item:hover {
+  background-color: #e2e6ea;
+}
+.card-img-top{
+  padding: 30px;
+}
+.Eshop{
+  font-family: 'Courier New', Courier, monospace;
+  vertical-align: top;
+  color: #5DADE2;
+  margin-bottom: 80px;
+  font-weight: bold;}
